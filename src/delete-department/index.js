@@ -1,0 +1,1 @@
+export { DeleteDepartment } from "./DeleteDepartment";
