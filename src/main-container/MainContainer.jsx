@@ -129,7 +129,7 @@ export function MainContainer() {
 
   return (
     <Grid container={true} alignContent="center" direction="column">
-      <Grid item>
+      <Grid item={true} style={{ alignSelf: "center", margin: "20px" }}>
         <Typography variant="h5">
           Employee/Department Tracking System
         </Typography>
