@@ -14,7 +14,7 @@ let initialData = [
   },
   {
     id: 2,
-    name: "Rutuja",
+    name: "Kurunei",
     age: 24,
     dept: "Finance",
   },

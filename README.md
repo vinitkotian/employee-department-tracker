@@ -28,4 +28,4 @@ https://nodejs.org/en/
 
 ### Thats it! The employee department tracker must be up and running on http://localhost:3000/ .
 
-    PS : You can check the stack trace on terminal to identify the port no which might be different than the default 3000 mentioned above.
+PS: Forgive the CSS styling on this application, It was built as part of a react challenge ignoring CSS and styling :grinning: !
